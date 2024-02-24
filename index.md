@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pgeag
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
